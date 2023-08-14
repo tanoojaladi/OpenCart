@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="OpencartSuite">
+	<listeners>	
+		<listener class-name="utilities.ExtentReportManager"></listener>
+	</listeners>
+	
+  <test thread-count="5" name="Test">  
+	  
+	  <parameter name="browser" value="chrome"></parameter>
+	  <groups>
+		  <run>
+			  <!-- groups name setup and teardwon methods kuda pettamu so include exclude e metho
+			  ds kuda apply avuthai setup method ki sanity and regression ani names isthe 
+			  include lo sanity and exclude lo regression ani rasthe setup method run avvaka 
+			  driver initialization avvakava null pointer exception vasthundi and like tear down method also-->
+			  
+			  <include name="Sanity"></include>
+			  <exclude name="Regression"></exclude>	  
+		  </run>
+	  </groups>
+	  
+    <classes>	
+		<!-- e below vunna classes anintiki groups lo rasina rules apply avuthai-->
+         <class name="testCases.TC_001_AccountRegistrationTest"/>
+         <class name="testCases.TC_002_LoginTest"/>
+        <class name="testCases.TC_003_LoginDataDrivenTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- OpencartSuite -->
