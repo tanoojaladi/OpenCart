@@ -22,8 +22,8 @@
           <configuration>
 			   <!-- put your configurations here -->
 			  <suiteXmlFiles>
-				 <!--  <suiteXmlFile>MasterSuitetestng.xml</suiteXmlFile> -->
-				  <suiteXmlFile>datadriven.xml</suiteXmlFile> 
+				  <suiteXmlFile>MasterSuitetestng.xml</suiteXmlFile> 
+				<!--   <suiteXmlFile>datadriven.xml</suiteXmlFile> -->
 				  
 			</suiteXmlFiles>
            
