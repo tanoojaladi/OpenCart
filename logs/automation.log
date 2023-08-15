@@ -34,3 +34,21 @@
 11:38:41.569 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
 11:38:43.046 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
 11:38:43.047 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
+11:49:39.289 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest started***********
+11:49:39.477 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount
+11:49:40.564 [main] INFO  testCases.TC_002_LoginTest - clicked on Login
+11:49:40.785 [main] INFO  testCases.TC_002_LoginTest - Entered Email
+11:49:40.931 [main] INFO  testCases.TC_002_LoginTest - Entered Password
+11:49:41.000 [main] INFO  testCases.TC_002_LoginTest - clicked on  login
+11:49:41.003 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
+11:49:42.086 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
+11:49:42.086 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
+11:50:23.195 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest started***********
+11:50:23.416 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount
+11:50:24.715 [main] INFO  testCases.TC_002_LoginTest - clicked on Login
+11:50:24.969 [main] INFO  testCases.TC_002_LoginTest - Entered Email
+11:50:25.126 [main] INFO  testCases.TC_002_LoginTest - Entered Password
+11:50:25.184 [main] INFO  testCases.TC_002_LoginTest - clicked on  login
+11:50:25.187 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
+11:50:27.356 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
+11:50:27.357 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
