@@ -52,3 +52,30 @@
 11:50:25.187 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
 11:50:27.356 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
 11:50:27.357 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
+15:27:39.580 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest started***********
+15:27:40.161 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount
+15:27:42.408 [main] INFO  testCases.TC_002_LoginTest - clicked on Login
+15:27:42.815 [main] INFO  testCases.TC_002_LoginTest - Entered Email
+15:27:42.977 [main] INFO  testCases.TC_002_LoginTest - Entered Password
+15:27:43.654 [main] INFO  testCases.TC_002_LoginTest - clicked on  login
+15:27:43.743 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
+15:27:46.853 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
+15:27:46.853 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
+16:01:22.177 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest started***********
+16:01:22.717 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount
+16:01:25.833 [main] INFO  testCases.TC_002_LoginTest - clicked on Login
+16:01:26.253 [main] INFO  testCases.TC_002_LoginTest - Entered Email
+16:01:26.455 [main] INFO  testCases.TC_002_LoginTest - Entered Password
+16:01:26.580 [main] INFO  testCases.TC_002_LoginTest - clicked on  login
+16:01:26.583 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
+16:01:30.077 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
+16:01:30.077 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
+16:05:19.285 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest started***********
+16:05:19.571 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount
+16:05:20.473 [main] INFO  testCases.TC_002_LoginTest - clicked on Login
+16:05:20.707 [main] INFO  testCases.TC_002_LoginTest - Entered Email
+16:05:20.843 [main] INFO  testCases.TC_002_LoginTest - Entered Password
+16:05:20.897 [main] INFO  testCases.TC_002_LoginTest - clicked on  login
+16:05:20.899 [main] INFO  testCases.TC_002_LoginTest - validating My account page exists or not
+16:05:22.062 [main] INFO  testCases.TC_002_LoginTest - validated and Test passed
+16:05:22.062 [main] INFO  testCases.TC_002_LoginTest - ************TC_002_LoginTest Ended***********
